@@ -1,0 +1,6 @@
+{
+  "name": "Newcastle Repair Centre - Smart Automotive Bodyshop & CARBON AI",
+  "description": "Premier independent bodyshop on Condercum Road, Newcastle upon Tyne. Dealer-grade accident, paint, and dent repair with CARBON AI instant estimate assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
